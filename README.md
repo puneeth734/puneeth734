@@ -48,20 +48,45 @@
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 1. PaperGen AI – AI-Assisted Question Paper Generation System
-- Developing an intelligent question paper generation system.
-- Focused on automating the question paper preparation workflow.
-- **Tech Stack:** Java 21, Spring Boot, MySQL, AI/ML.
+### 1. 📄 PaperGen AI – AI-Assisted Question Paper Generation System
+An intelligent question paper generation system designed to simplify and automate the examination paper preparation process.
 
-### 2. SaveRupee – Expense Tracker
+- Developing a system for managing subjects, syllabus, questions, and question paper generation.
+- Focused on automating question paper creation based on academic requirements.
+- Designed to streamline the examination preparation workflow.
+
+**Tech Stack:** Java 21, Spring Boot, MySQL, AI/ML
+
+### 2. 🏍️ CampusRide – AI-Powered Campus Ride Sharing System
+A campus-focused ride-sharing platform designed to connect students who need transportation with students offering available bike seats within the campus.
+
+- Designed exclusively for verified college students.
+- Enables students to share available bike seats for campus travel.
+- Focuses on convenient and affordable transportation within the college campus.
+- Includes student verification, ride management, and admin functionalities.
+
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, JavaScript
+
+### 3. 🤖 AI & ML-Based Credit Scoring for Unbanked Street Vendors
+A machine learning project focused on evaluating the creditworthiness of unbanked street vendors using alternative financial and business-related data.
+
+- Developed a semi-supervised learning approach using pseudo-labeling.
+- Applied Self-Training Classifier techniques to utilize labeled and unlabeled datasets.
+- Explored machine learning models such as Random Forest, Extra Trees, and LightGBM.
+- Used SHAP for model interpretability and feature importance analysis.
+- Aimed to generate credit scores on a scale of 0–100.
+
+**Tech Stack:** Python, Machine Learning, Scikit-learn, Pandas, NumPy, XGBoost, LightGBM, SHAP
+
+### 4. SaveRupee – Expense Tracker
 - Developed an expense management application.
 - Implemented CRUD operations to manage daily expenses.
 - Added search, filtering, dashboard analytics, and category-wise expense breakdown.
 - **Tech Stack:** Python, Flask, MySQL.
 
-### 3. Event Planning Website
+### 5. Event Planning Website
 - Developed a web-based event planning application.
 - Implemented frontend functionality and database integration.
 - **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL.
